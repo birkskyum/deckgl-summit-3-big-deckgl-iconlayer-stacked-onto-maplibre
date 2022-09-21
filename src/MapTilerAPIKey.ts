@@ -1,1 +1,1 @@
-export const MapTilerAPIKey = '';
+export const MapTilerAPIKey = 'JAAmmMV3owapuM1wSsah';
